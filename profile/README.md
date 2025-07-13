@@ -24,14 +24,14 @@
 | Enlace | Descripción |
 |--------|-------------|
 | 🌐 **Sitio en producción** | <https://llg-web-u8sksk4wgwk4gwgwkcs4c8wg.roepard.ip-ddns.com> |
-| 📚 **Documentación** | <https://docmost-j4ogcg840gg40ocwgs8osk48.roepard.ip-ddns.com/share/w042b18aru/p/liceo-leon-de-greiff-web-project-pNoyLKDlcD> |
+| 📚 **Documentación** | [(Docmost)<https://docmost-j4ogcg840gg40ocwgs8osk48.roepard.ip-ddns.com/share/w042b18aru/p/liceo-leon-de-greiff-web-project-pNoyLKDlcD>] |
 
 ## 🛠️ Tech-Stack
 
 | Back-end | Front-end | Infra |
 |----------|-----------|-------|
-| Laravel 12 | Vue 3 + Vite | Nginx, MySQL, Ubuntu 22 |
-| PHP 8.4 | Tailwind CSS + DaisyUI | Certbot SSL |
+| Laravel 12 | Vue 3 + Vite | Nginx, MySQL, Ubuntu 22 Coolify|
+| PHP 8.4 | Tailwind CSS + DaisyUI | Caddy Proxy Lets Encrypt SSL |
 
 > Para más detalles consulta la sección **Bases del Proyecto** en la documentación.
 
@@ -39,11 +39,6 @@
 
 ¡Las contribuciones son bienvenidas! Abre un *issue* o envía un *pull request* siguiendo la [Guía de Contribución](CONTRIBUTING.md).
 
-## 📄 Licencia
-
-Distribuido bajo licencia MIT. Revisa el archivo [LICENSE](LICENSE) para más información.
-
----
 
 <p align="center">Hecho con ❤️ para la IE Liceo León de Greiff</p>
 
