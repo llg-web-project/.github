@@ -23,8 +23,8 @@
 
 | Enlace | Descripción |
 |--------|-------------|
-| 🌐 **Sitio en producción** | <https://llg-web-u8sksk4wgwk4gwgwkcs4c8wg.roepard.ip-ddns.com> |
-| 📚 **Documentación** | [(Docmost)<https://docmost-j4ogcg840gg40ocwgs8osk48.roepard.ip-ddns.com/share/w042b18aru/p/liceo-leon-de-greiff-web-project-pNoyLKDlcD>] |
+| 🌐 **Sitio en producción** | [Deployed on Coolify](https://llg-web-u8sksk4wgwk4gwgwkcs4c8wg.roepard.ip-ddns.com) |
+| 📚 **Documentación** | [Docmost](https://docmost-j4ogcg840gg40ocwgs8osk48.roepard.ip-ddns.com/share/w042b18aru/p/liceo-leon-de-greiff-web-project-pNoyLKDlcD) |
 
 ## 🛠️ Tech-Stack
 
